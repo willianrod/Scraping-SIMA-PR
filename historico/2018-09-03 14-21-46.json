@@ -1,0 +1,818 @@
+{
+  "Arroz Agulhinha em casca tipo 1 sc 60 Kg": {
+    "CAMPO MOUR\u00c3O": {
+      "min": 55.0,
+      "m_c": 55.0,
+      "max": 55.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 55.0,
+      "m_c": 55.0,
+      "max": 58.0
+    },
+    "JACAREZINHO": {
+      "min": 70.0,
+      "m_c": 71.0,
+      "max": 71.5
+    },
+    "PARANAVAI": {
+      "min": 55.0,
+      "m_c": 56.0,
+      "max": 58.0
+    },
+    "UMUARAMA": {
+      "min": 50.0,
+      "m_c": 53.0,
+      "max": 55.0
+    }
+  },
+  "Caf\u00e9 em coco kg renda": {
+    "APUCARANA": {
+      "min": 6.28,
+      "m_c": 6.3,
+      "max": 6.3
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 6.39,
+      "m_c": 6.48,
+      "max": 6.48
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 6.18,
+      "m_c": 6.22,
+      "max": 6.28
+    },
+    "IVAIPOR\u00c3": {
+      "min": 6.0,
+      "m_c": 6.3,
+      "max": 6.39
+    },
+    "JACAREZINHO": {
+      "min": 6.0,
+      "m_c": 6.3,
+      "max": 6.5
+    },
+    "LONDRINA": {
+      "min": 6.24,
+      "m_c": 6.24,
+      "max": 6.28
+    },
+    "MARING\u00c1": {
+      "min": 6.28,
+      "m_c": 6.3,
+      "max": 6.45
+    },
+    "PARANAVAI": {
+      "min": 6.28,
+      "m_c": 6.28,
+      "max": 6.28
+    },
+    "TOLEDO": {
+      "min": 6.45,
+      "m_c": 6.45,
+      "max": 6.45
+    },
+    "UMUARAMA": {
+      "min": 6.0,
+      "m_c": 6.1,
+      "max": 6.4
+    }
+  },
+  "Feij\u00e3o Carioca tipo 1 sc 60 Kg": {
+    "CAMPO MOUR\u00c3O": {
+      "min": 80.0,
+      "m_c": 90.0,
+      "max": 90.0
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 80.0,
+      "m_c": 80.0,
+      "max": 90.0
+    },
+    "GUARAPUAVA": {
+      "min": 70.0,
+      "m_c": 75.0,
+      "max": 80.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 80.0,
+      "m_c": 95.0,
+      "max": 100.0
+    },
+    "JACAREZINHO": {
+      "min": 115.0,
+      "m_c": 120.0,
+      "max": 130.0
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 60.0,
+      "m_c": 70.0,
+      "max": 80.0
+    },
+    "PARANAVAI": {
+      "min": 110.0,
+      "m_c": 110.0,
+      "max": 120.0
+    },
+    "PATO BRANCO": {
+      "min": 70.0,
+      "m_c": 70.0,
+      "max": 80.0
+    },
+    "PONTA GROSSA": {
+      "min": 60.0,
+      "m_c": 70.0,
+      "max": 80.0
+    },
+    "UMUARAMA": {
+      "min": 90.0,
+      "m_c": 95.0,
+      "max": 100.0
+    }
+  },
+  "Feij\u00e3o preto tipo 1 sc 60 Kg": {
+    "CAMPO MOUR\u00c3O": {
+      "min": 110.0,
+      "m_c": 110.0,
+      "max": 110.0
+    },
+    "CURITIBA": {
+      "min": 116.0,
+      "m_c": 118.0,
+      "max": 120.0
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 100.0,
+      "m_c": 100.0,
+      "max": 110.0
+    },
+    "GUARAPUAVA": {
+      "min": 110.0,
+      "m_c": 120.0,
+      "max": 125.0
+    },
+    "IRATI": {
+      "min": 130.0,
+      "m_c": 130.0,
+      "max": 130.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 95.0,
+      "m_c": 100.0,
+      "max": 115.0
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 90.0,
+      "m_c": 100.0,
+      "max": 110.0
+    },
+    "PATO BRANCO": {
+      "min": 110.0,
+      "m_c": 110.0,
+      "max": 120.0
+    },
+    "PONTA GROSSA": {
+      "min": 90.0,
+      "m_c": 115.0,
+      "max": 115.0
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 100.0,
+      "m_c": 110.0,
+      "max": 118.0
+    }
+  },
+  "Milho amarelo tipo 1 sc 60 Kg": {
+    "APUCARANA": {
+      "min": 32.5,
+      "m_c": 36.5,
+      "max": 36.5
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "CASCAVEL": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "CURITIBA": {
+      "min": 30.0,
+      "m_c": 31.0,
+      "max": 31.5
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 32.5,
+      "m_c": 34.0,
+      "max": 35.0
+    },
+    "GUARAPUAVA": {
+      "min": 33.8,
+      "m_c": 34.2,
+      "max": 35.2
+    },
+    "IRATI": {
+      "min": 30.0,
+      "m_c": 30.0,
+      "max": 32.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 32.7,
+      "m_c": 32.7,
+      "max": 32.7
+    },
+    "JACAREZINHO": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 37.0
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 32.5,
+      "m_c": 34.0,
+      "max": 34.6
+    },
+    "LONDRINA": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "MARING\u00c1": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 33.5
+    },
+    "PARANAVAI": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "PATO BRANCO": {
+      "min": 34.2,
+      "m_c": 34.4,
+      "max": 35.0
+    },
+    "PONTA GROSSA": {
+      "min": 30.0,
+      "m_c": 32.0,
+      "max": 38.0
+    },
+    "TOLEDO": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "UMUARAMA": {
+      "min": 32.5,
+      "m_c": 32.5,
+      "max": 32.5
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 30.0,
+      "m_c": 34.0,
+      "max": 37.0
+    }
+  },
+  "Soja industrial tipo 1 sc 60 Kg": {
+    "APUCARANA": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.1
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.0
+    },
+    "CASCAVEL": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.0
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.0
+    },
+    "CURITIBA": {
+      "min": 77.0,
+      "m_c": 78.0,
+      "max": 80.0
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 78.0,
+      "m_c": 79.0,
+      "max": 80.0
+    },
+    "GUARAPUAVA": {
+      "min": 79.7,
+      "m_c": 80.4,
+      "max": 81.9
+    },
+    "IRATI": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 80.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 79.3,
+      "m_c": 79.3,
+      "max": 79.3
+    },
+    "JACAREZINHO": {
+      "min": 79.0,
+      "m_c": 79.5,
+      "max": 82.5
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 79.0,
+      "m_c": 80.0,
+      "max": 80.0
+    },
+    "LONDRINA": {
+      "min": 79.1,
+      "m_c": 79.1,
+      "max": 79.1
+    },
+    "MARING\u00c1": {
+      "min": 79.0,
+      "m_c": 79.2,
+      "max": 80.5
+    },
+    "PARANAVAI": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.0
+    },
+    "PATO BRANCO": {
+      "min": 80.0,
+      "m_c": 80.0,
+      "max": 80.0
+    },
+    "PONTA GROSSA": {
+      "min": 79.0,
+      "m_c": 80.0,
+      "max": 81.0
+    },
+    "TOLEDO": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.0
+    },
+    "UMUARAMA": {
+      "min": 79.0,
+      "m_c": 79.0,
+      "max": 79.0
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 78.5,
+      "m_c": 79.0,
+      "max": 80.0
+    }
+  },
+  "Trigo p\u00e3o PH 78 sc 60 Kg": {
+    "APUCARANA": {
+      "min": 47.0,
+      "m_c": 47.0,
+      "max": 47.0
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 48.0,
+      "m_c": 48.0,
+      "max": 48.0
+    },
+    "CASCAVEL": {
+      "min": 47.0,
+      "m_c": 48.0,
+      "max": 48.0
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 47.0,
+      "m_c": 47.0,
+      "max": 47.0
+    },
+    "CURITIBA": {
+      "min": 46.0,
+      "m_c": 46.5,
+      "max": 47.0
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 45.0,
+      "m_c": 46.0,
+      "max": 47.0
+    },
+    "GUARAPUAVA": {
+      "min": 48.0,
+      "m_c": 48.0,
+      "max": 49.0
+    },
+    "IRATI": {
+      "min": 45.0,
+      "m_c": 46.0,
+      "max": 46.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 48.0,
+      "m_c": 48.0,
+      "max": 48.0
+    },
+    "JACAREZINHO": {
+      "min": 47.0,
+      "m_c": 47.0,
+      "max": 49.5
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 46.0,
+      "m_c": 47.0,
+      "max": 48.0
+    },
+    "LONDRINA": {
+      "min": 47.0,
+      "m_c": 47.0,
+      "max": 47.0
+    },
+    "MARING\u00c1": {
+      "min": 47.0,
+      "m_c": 47.0,
+      "max": 47.0
+    },
+    "PATO BRANCO": {
+      "min": 46.0,
+      "m_c": 48.0,
+      "max": 48.0
+    },
+    "PONTA GROSSA": {
+      "min": 45.0,
+      "m_c": 46.0,
+      "max": 48.0
+    },
+    "TOLEDO": {
+      "min": 48.0,
+      "m_c": 48.0,
+      "max": 48.0
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 40.0,
+      "m_c": 43.0,
+      "max": 46.0
+    }
+  },
+  "Boi em p\u00e9  arroba": {
+    "APUCARANA": {
+      "min": 145.0,
+      "m_c": 147.0,
+      "max": 147.0
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 145.0,
+      "m_c": 145.0,
+      "max": 147.0
+    },
+    "CASCAVEL": {
+      "min": 145.0,
+      "m_c": 145.0,
+      "max": 147.0
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 144.0,
+      "m_c": 145.0,
+      "max": 146.0
+    },
+    "CURITIBA": {
+      "min": 144.0,
+      "m_c": 145.0,
+      "max": 146.0
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 145.0,
+      "m_c": 145.0,
+      "max": 145.0
+    },
+    "GUARAPUAVA": {
+      "min": 144.0,
+      "m_c": 146.0,
+      "max": 148.0
+    },
+    "IRATI": {
+      "min": 138.0,
+      "m_c": 138.0,
+      "max": 140.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 145.0,
+      "m_c": 146.0,
+      "max": 148.0
+    },
+    "JACAREZINHO": {
+      "min": 142.0,
+      "m_c": 142.0,
+      "max": 145.0
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 145.0,
+      "m_c": 145.0,
+      "max": 145.0
+    },
+    "LONDRINA": {
+      "min": 145.0,
+      "m_c": 145.0,
+      "max": 147.0
+    },
+    "MARING\u00c1": {
+      "min": 147.0,
+      "m_c": 147.0,
+      "max": 147.0
+    },
+    "PARANAVAI": {
+      "min": 148.0,
+      "m_c": 148.0,
+      "max": 148.0
+    },
+    "PATO BRANCO": {
+      "min": 144.0,
+      "m_c": 146.0,
+      "max": 147.0
+    },
+    "PONTA GROSSA": {
+      "min": 143.0,
+      "m_c": 145.0,
+      "max": 146.0
+    },
+    "TOLEDO": {
+      "min": 145.0,
+      "m_c": 145.0,
+      "max": 145.0
+    },
+    "UMUARAMA": {
+      "min": 145.0,
+      "m_c": 146.0,
+      "max": 147.0
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 142.0,
+      "m_c": 142.0,
+      "max": 150.0
+    }
+  },
+  "Erva-mate folha em barranco arroba": {
+    "GUARAPUAVA": {
+      "min": 15.0,
+      "m_c": 17.0,
+      "max": 19.0
+    },
+    "IRATI": {
+      "min": 15.0,
+      "m_c": 17.25,
+      "max": 20.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 13.5,
+      "m_c": 14.0,
+      "max": 15.0
+    },
+    "PATO BRANCO": {
+      "min": 12.0,
+      "m_c": 14.0,
+      "max": 17.0
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 17.0,
+      "m_c": 19.0,
+      "max": 20.0
+    }
+  },
+  "Su\u00edno em p\u00e9 tipo carne n\u00e3o integrado kg": {
+    "APUCARANA": {
+      "min": 3.4,
+      "m_c": 3.5,
+      "max": 3.5
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 2.9,
+      "m_c": 2.9,
+      "max": 2.9
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 3.37,
+      "m_c": 3.38,
+      "max": 3.4
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 2.9,
+      "m_c": 3.0,
+      "max": 3.1
+    },
+    "GUARAPUAVA": {
+      "min": 3.1,
+      "m_c": 3.3,
+      "max": 3.5
+    },
+    "IRATI": {
+      "min": 3.6,
+      "m_c": 3.6,
+      "max": 3.6
+    },
+    "IVAIPOR\u00c3": {
+      "min": 3.25,
+      "m_c": 3.3,
+      "max": 3.35
+    },
+    "JACAREZINHO": {
+      "min": 3.37,
+      "m_c": 3.37,
+      "max": 3.37
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 3.2,
+      "m_c": 3.5,
+      "max": 3.55
+    },
+    "LONDRINA": {
+      "min": 3.4,
+      "m_c": 3.4,
+      "max": 3.4
+    },
+    "MARING\u00c1": {
+      "min": 3.4,
+      "m_c": 3.4,
+      "max": 3.4
+    },
+    "PATO BRANCO": {
+      "min": 3.1,
+      "m_c": 3.1,
+      "max": 3.1
+    },
+    "PONTA GROSSA": {
+      "min": 2.8,
+      "m_c": 3.0,
+      "max": 3.15
+    },
+    "UMUARAMA": {
+      "min": 3.5,
+      "m_c": 3.6,
+      "max": 3.75
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 3.15,
+      "m_c": 3.2,
+      "max": 3.35
+    }
+  },
+  "Vaca em p\u00e9 (padr\u00e3o corte) arroba": {
+    "APUCARANA": {
+      "min": 133.0,
+      "m_c": 135.0,
+      "max": 136.0
+    },
+    "CAMPO MOUR\u00c3O": {
+      "min": 137.0,
+      "m_c": 138.0,
+      "max": 138.0
+    },
+    "CASCAVEL": {
+      "min": 132.0,
+      "m_c": 134.0,
+      "max": 135.0
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 130.0,
+      "m_c": 133.0,
+      "max": 136.0
+    },
+    "CURITIBA": {
+      "min": 134.0,
+      "m_c": 135.0,
+      "max": 136.0
+    },
+    "FRANCISCO BELTR\u00c3O": {
+      "min": 125.0,
+      "m_c": 125.0,
+      "max": 125.0
+    },
+    "GUARAPUAVA": {
+      "min": 132.0,
+      "m_c": 134.0,
+      "max": 136.0
+    },
+    "IRATI": {
+      "min": 130.0,
+      "m_c": 130.0,
+      "max": 132.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 133.0,
+      "m_c": 134.0,
+      "max": 135.0
+    },
+    "JACAREZINHO": {
+      "min": 132.0,
+      "m_c": 132.0,
+      "max": 135.0
+    },
+    "LARANJEIRAS DO SUL": {
+      "min": 120.0,
+      "m_c": 120.0,
+      "max": 120.0
+    },
+    "LONDRINA": {
+      "min": 132.0,
+      "m_c": 132.0,
+      "max": 134.0
+    },
+    "MARING\u00c1": {
+      "min": 137.0,
+      "m_c": 137.0,
+      "max": 137.0
+    },
+    "PARANAVAI": {
+      "min": 138.0,
+      "m_c": 138.0,
+      "max": 138.0
+    },
+    "PATO BRANCO": {
+      "min": 125.0,
+      "m_c": 125.0,
+      "max": 128.0
+    },
+    "PONTA GROSSA": {
+      "min": 128.0,
+      "m_c": 133.0,
+      "max": 133.0
+    },
+    "TOLEDO": {
+      "min": 135.0,
+      "m_c": 135.0,
+      "max": 135.0
+    },
+    "UMUARAMA": {
+      "min": 135.0,
+      "m_c": 135.0,
+      "max": 137.0
+    },
+    "UNI\u00c3O DA VIT\u00d3RIA": {
+      "min": 125.0,
+      "m_c": 130.0,
+      "max": 135.0
+    }
+  },
+  "Caf\u00e9 beneficiado bebida dura - tipo 6 sc 60 Kg": {
+    "APUCARANA": {
+      "min": 384.0,
+      "m_c": 387.0,
+      "max": 410.0
+    },
+    "CORN\u00c9LIO PROC\u00d3PIO": {
+      "min": 378.0,
+      "m_c": 384.0,
+      "max": 387.0
+    },
+    "IVAIPOR\u00c3": {
+      "min": 387.0,
+      "m_c": 403.8,
+      "max": 410.0
+    },
+    "JACAREZINHO": {
+      "min": 384.0,
+      "m_c": 400.0,
+      "max": 410.0
+    },
+    "LONDRINA": {
+      "min": 384.0,
+      "m_c": 384.0,
+      "max": 387.0
+    },
+    "MARING\u00c1": {
+      "min": 384.0,
+      "m_c": 384.0,
+      "max": 387.0
+    },
+    "TOLEDO": {
+      "min": 387.0,
+      "m_c": 387.0,
+      "max": 387.0
+    },
+    "UMUARAMA": {
+      "min": 376.0,
+      "m_c": 400.0,
+      "max": 404.0
+    }
+  },
+  "Mandioca padr\u00e3o de amido 580 g tonelada": {
+    "CAMPO MOUR\u00c3O": {
+      "min": 426.0,
+      "m_c": 426.0,
+      "max": 426.0
+    },
+    "UMUARAMA": {
+      "min": 406.0,
+      "m_c": 423.4,
+      "max": 435.0
+    }
+  }
+}
